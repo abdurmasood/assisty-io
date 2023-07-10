@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/assisty-io/static/css/main.87f2c604.css",
-    "main.js": "/assisty-io/static/js/main.e50a6dbe.js",
+    "main.js": "/assisty-io/static/js/main.f3d3dfcc.js",
     "static/js/787.ad0a73f7.chunk.js": "/assisty-io/static/js/787.ad0a73f7.chunk.js",
     "index.html": "/assisty-io/index.html",
     "main.87f2c604.css.map": "/assisty-io/static/css/main.87f2c604.css.map",
-    "main.e50a6dbe.js.map": "/assisty-io/static/js/main.e50a6dbe.js.map",
+    "main.f3d3dfcc.js.map": "/assisty-io/static/js/main.f3d3dfcc.js.map",
     "787.ad0a73f7.chunk.js.map": "/assisty-io/static/js/787.ad0a73f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87f2c604.css",
-    "static/js/main.e50a6dbe.js"
+    "static/js/main.f3d3dfcc.js"
   ]
 }
